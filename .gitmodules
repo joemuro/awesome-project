@@ -1,6 +1,5 @@
 [submodule "awesome-project-dependency"]
-	#path = awesome-project-dependency
-	#url = git@github.com:joemuro/awesome-project-dependency.git
+	path = awesome-project-dependency
+	url = git@github.com:joemuro/awesome-project-dependency.git
 
-	path = DbConnector
-	url = https://github.com/chaconinc/DbConnector
+
